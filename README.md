@@ -37,6 +37,7 @@ Crea un archivo `.env.local` en la raíz del proyecto con lo siguiente:
 
 ```bash
 NEXT_PUBLIC_API_URL=http://localhost:4000/api-v1
+NODE_ENV=development
 ```
 
 *(El backend NestJS debe estar corriendo en ese puerto y prefijo global)*
