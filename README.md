@@ -1,6 +1,6 @@
 # 🧾 Keynua Contract Creator — Frontend
 
-Aplicación web desarrollada en **Next.js 14 + TypeScript + ShadCN UI + React Query**, que permite crear contratos a través del API de **Keynua** y visualizar el detalle del contrato creado (firmantes, documentos, etapas, etc).
+Aplicación web desarrollada en **Next.js 16 + TypeScript + ShadCN UI + React Query**, que permite crear contratos a través del API de **Keynua** y visualizar el detalle del contrato creado (firmantes, documentos, etapas, etc).
 
 ---
 
@@ -21,7 +21,7 @@ Aplicación web desarrollada en **Next.js 14 + TypeScript + ShadCN UI + React Qu
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/keynua-contracts-frontend.git
+git clone https://github.com/JavierLQR/keynua-contracts-frontend
 cd keynua-contracts-frontend
 ```
 
@@ -145,7 +145,7 @@ Abre en tu navegador: 👉 **[http://localhost:3000](http://localhost:3000)**
 
 ## 🧑‍💻 Autor
 
-**Desarrollado por:** Rodrigo Rumpler  
+**Desarrollado por:** Javier Rojas
 📧 [rodrigo@example.com](mailto:javier.fullstack.qr@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/javier-rojas-287989209/) · [GitHub](https://github.com/JavierLQR?tab=repositories)
 
