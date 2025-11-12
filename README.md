@@ -146,7 +146,7 @@ Abre en tu navegador: 👉 **[http://localhost:3000](http://localhost:3000)**
 ## 🧑‍💻 Autor
 
 **Desarrollado por:** Javier Rojas
-📧 [rodrigo@example.com](mailto:javier.fullstack.qr@gmail.com)  
+📧 [javier.fullstack.qr@gmail.com](mailto:javier.fullstack.qr@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/javier-rojas-287989209/) · [GitHub](https://github.com/JavierLQR?tab=repositories)
 
 ---
